@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body 
+{ 
+	margin: 0; 
+	font-family: Roboto, "Helvetica Neue", sans-serif; 
+	background: #bdc3c7;
+	background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);
+	background: linear-gradient(to right, #2c3e50, #bdc3c7);
+
+}
+
+.card-title
+{
+	font-size: 1.2rem;
+}
